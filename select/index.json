@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウルトラCなラブストーリー",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T12:25:51.590708Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウルトラCなラブストーリー",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_ウルトラCなラブストーリー_Onephony.txt"
+    }
+  ]
+}
